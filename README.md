@@ -1,15 +1,36 @@
-# chatapp
+# Flutter Chat App
 
-My Chat App is a dynamic Flutter application designed for seamless messaging experiences. The app is powered by Firebase, specifically leveraging Firebase Storage to enable users to exchange text and media-rich messages in a secure and real-time environment.
-## Getting Started
+A **real-time chat application** built with **Flutter** and **Firebase**. Users can sign up, log in, send and receive messages instantly, and view chat history. Designed with a clean, mobile-friendly UI for a smooth user experience.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- User authentication (sign up / log in)  
+- Real-time messaging using Firebase Firestore  
+- Persistent chat history  
+- Responsive and modern mobile UI
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## 🧰 Tech Stack
+
+| Layer | Technology |
+|-------|------------|
+| Frontend | Flutter (Dart) |
+| Backend / Database | Firebase Firestore |
+| Authentication | Firebase Authentication |
+
+
+## 📷 Screenshots / Demo
+
+*(Add your screenshots or GIFs here to showcase the app)*
+
+![Login Screen](screenshots/login.png)  
+![Chat Screen](screenshots/chat.png)  
+
+
+## 💻 Installation & Setup
+
+1. **Clone the repository:**
+```bash
+git clone https://github.com/KabeloTheDeveloper/Flutter-Chat-App.git
